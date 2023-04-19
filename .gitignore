@@ -1,0 +1,5 @@
+# This directory gets created when building
+/build/
+
+# This file gets created when using `idf.py` to modify the config
+/sdkconfig.old
